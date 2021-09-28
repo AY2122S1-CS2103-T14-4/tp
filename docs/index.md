@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AddressBook Level-3
+title: Advyze v1.1
 ---
 
 [![CI Status](https://github.com/AY2122S1-CS2103-T14-4/tp/workflows/Java%20CI/badge.svg)](https://github.com/AY2122S1-CS2103-T14-4/tp/actions)
